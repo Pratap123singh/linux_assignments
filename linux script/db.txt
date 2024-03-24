@@ -1,0 +1,5 @@
+rollno name semester sub1 sub2 sub3
+
+12 13
+1 rohit 3 12 13 14
+2 ronit 3 22 33 44
